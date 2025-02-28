@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou o Sávio Sérgio!  
-🎓 Estudante de Sistemas de Informação na PUC Minas (4° período)  
+🎓 Estudante de Sistemas de Informação na PUC Minas (5° período)  
 💼 Em transição para a área de desenvolvimento tecnológico  
 🌱 Atualmente aprendendo JavaScript, Python, Redes e Lógica de Programação  
 📚 Estudando no Santander Tech e aprofundando em manipulação do DOM, APIs e programação assíncrona  
